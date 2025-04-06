@@ -1162,6 +1162,16 @@
 					<expiryAfter>960</expiryAfter>
 					<version>1</version>
 				</li>
+				<li>
+					<statDef>FinalBleedRate</statDef>
+					<expiryAfter>960</expiryAfter>
+					<version>1</version>
+				</li>
+				<li>
+					<statDef>TweaksGalore_StonecuttingSpeed</statDef>
+					<expiryAfter>960</expiryAfter>
+					<version>1</version>
+				</li>
 			</AllSettings>
 		</StatSettings>
 		<protonSettings>
@@ -3456,6 +3466,10 @@
 				</li>
 				<li>
 					<job>Reign</job>
+					<version>2</version>
+				</li>
+				<li>
+					<job>TweaksGalore_ChattyComms</job>
 					<version>2</version>
 				</li>
 			</AllJobsSettings>

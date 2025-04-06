@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.5.4409 rev1068</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>vnull.hideyourwealth</li>
+			<li>mlie.omnicoredrill</li>
+			<li>savestoragesettings.kv.rw.fishtmp</li>
+			<li>grizzlemethis.tradingspot.rw</li>
+			<li>mlie.sdadvancedpowergeneration</li>
+			<li>solaris.copyprint</li>
+			<li>tr.autocutblight</li>
+			<li>mlie.pulsefireturret</li>
+			<li>tyinplop.toughnessskillmod</li>
+			<li>rimfridge.kv.rw</li>
+			<li>zhuma.genemenu</li>
+			<li>zylle.mapdesigner</li>
+			<li>botaxalim.lessaddiction</li>
+			<li>aelanna.betterpyromania</li>
+			<li>alentuon.letsbefirends</li>
+			<li>fluffy.blueprints</li>
+			<li>void.charactereditor</li>
+			<li>mrmikita.smartageing</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>ganjamannl.nomorefilth</li>
+			<li>runningbugs.worldmapeditor</li>
+			<li>zhrocks11.stackablechunks_copy</li>
+			<li>lis2137.nomoodimplantnostatdecrease</li>
+			<li>rabiosus.blueprintpatch</li>
+			<li>silkcircuit.manmadegeysersmod</li>
+			<li>harmonea.wildspawn</li>
+			<li>funamusea.bakasugeelightex</li>
+			<li>dizzyeevee.declutteredthronerooms</li>
+			<li>dizzyeevee.deathlessmeansdeathless</li>
+			<li>dgacr.corpsetochemfuel</li>
+			<li>troopersmith1.deathrattle</li>
+			<li>fsnw.wxcsc</li>
+			<li>ochino.nocostpsycast</li>
+			<li>indeed.stackxxl</li>
+			<li>vash.pawntweaker</li>
+			<li>oharo.infiniteneutroreactor</li>
+			<li>smxrez.everfiringturrets</li>
+			<li>murmur.walllight</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>joseasoler.tradingoptions</li>
+			<li>neronix17.tweaksgalore</li>
+			<li>smashphil.dropspot</li>
+			<li>gt.sam.tilledsoil</li>
+			<li>antaioz.tdiner</li>
+			<li>owlchemist.fridgeutilities</li>
+			<li>arandomkiwi.raidsforme</li>
+			<li>avilmask.nonunopinata</li>
+			<li>dvs.norandomrelations</li>
+			<li>stolij.morebatteries</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>ratys.madskills</li>
+			<li>greysuki.rf.fertilefields</li>
+			<li>thereallemon.factioncontrol</li>
+			<li>edb.preparecarefully</li>
+			<li>dubwise.dubsskylights</li>
+			<li>mlie.drugsarenotfood</li>
+			<li>brrainz.achtung</li>
+			<li>mehni.pickupandhaul</li>
+			<li>rmk.translation</li>
+			<li>destiny.rktm.mod</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>krkr.rocketman</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>730936602</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>HugsLib</li>
+			<li>Hide Your Wealth</li>
+			<li>Omni Core Drill (Continued)</li>
+			<li>[1.5][KV] Save Storage, Outfit, Crafting, Drug, &amp; Operation Settings </li>
+			<li>[GMT] Trading Spot</li>
+			<li>[sd] Advanced Powergeneration (Continued)</li>
+			<li>Copyprint</li>
+			<li>Auto-Cut Blight</li>
+			<li>Pulsefire Turret (Continued)</li>
+			<li>Toughness Skill</li>
+			<li>RimFridge: Now with Shelves!</li>
+			<li>Gene Menu</li>
+			<li>Map Designer</li>
+			<li>Less Addiction</li>
+			<li>Better Pyromania</li>
+			<li>Let's Be Friends</li>
+			<li>Blueprints</li>
+			<li>Character Editor</li>
+			<li>Smart Ageing</li>
+			<li>Quarry</li>
+			<li>No More Filth (continued)</li>
+			<li>世界地图编辑器 World Map Editor</li>
+			<li>Stackable Chunks [1.4+]</li>
+			<li>Mood Nullifier - No Stat Decrease</li>
+			<li>Overlapping Blueprints</li>
+			<li>Geothermal Fracking</li>
+			<li>WildSpawn - A Progression: Agriculture Preset</li>
+			<li>[㋰] Advanced Flood light 先進投光照明 EX</li>
+			<li>Dizzy's Less Obnoxious Royal Room Requirements</li>
+			<li>Deathless Means Deathless</li>
+			<li>CorpseToChemFuel</li>
+			<li>Death Rattle Continued [1.2+]</li>
+			<li>微型采石场</li>
+			<li>no cost psyfocus mode</li>
+			<li>Stack XXL</li>
+			<li>Pawn Tweaker</li>
+			<li>Oharo's Infinite Neutroreactor</li>
+			<li>Everfiring Turrets</li>
+			<li>Wall Light</li>
+			<li>Vault Walls and Doors</li>
+			<li>Trading Options</li>
+			<li>Tweaks Galore</li>
+			<li>Trade Ships Drop Spot</li>
+			<li>Tilled Soil</li>
+			<li>Table Diner</li>
+			<li>Simple Utilities: Fridge</li>
+			<li>Raids For Me</li>
+			<li>Non uno Pinata (don't drop items)</li>
+			<li>No Random Relations</li>
+			<li>More Batteries</li>
+			<li>Map Preview</li>
+			<li>Mad Skills</li>
+			<li>Fertile Fields 1.5</li>
+			<li>Faction Control (1.4/1.5)</li>
+			<li>EdB Prepare Carefully</li>
+			<li>Dubs Skylights</li>
+			<li>Drugs are not Food (Continued)</li>
+			<li>Achtung!</li>
+			<li>Pick Up And Haul</li>
+			<li>Rimworld Mod Korean</li>
+			<li>[RKTM] Mod</li>
+			<li>Performance Optimizer</li>
+			<li>RocketMan - Performance Mod</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>신</name>
+		<inheritable>True</inheritable>
+		<genes>
+			<li>Ageless</li>
+			<li>Deathless</li>
+			<li>TotalHealing</li>
+			<li>XenogermReimplanter</li>
+			<li>DiseaseFree</li>
+			<li>PerfectImmunity</li>
+			<li>ArchiteMetabolism</li>
+			<li>FoamSpray</li>
+			<li>FireSpew</li>
+			<li>AcidSpray</li>
+			<li>AnimalWarcall</li>
+			<li>WoundHealing_SuperFast</li>
+			<li>Superclotting</li>
+			<li>MoveSpeed_VeryQuick</li>
+			<li>Mood_Sanguine</li>
+			<li>MinTemp_LargeDecrease</li>
+			<li>MaxTemp_LargeIncrease</li>
+			<li>ToxResist_Total</li>
+			<li>ToxicEnvironmentResistance_Total</li>
+			<li>FireResistant</li>
+			<li>Aggression_DeadCalm</li>
+			<li>MeleeDamage_Strong</li>
+			<li>KindInstinct</li>
+			<li>Neversleep</li>
+			<li>Robust</li>
+			<li>Pain_Reduced</li>
+			<li>Beauty_Beautiful</li>
+			<li>Hair_LongOnly</li>
+			<li>Beard_NoBeardOnly</li>
+			<li>Body_Thin</li>
+			<li>Hair_SnowWhite</li>
+			<li>Skin_SheerWhite</li>
+			<li>RobustDigestion</li>
+			<li>Learning_Fast</li>
+			<li>DarkVision</li>
+			<li>Hair_Grayless</li>
+			<li>Hands_Human</li>
+			<li>PollutionRush</li>
+			<li>Unstoppable</li>
+			<li>AptitudeRemarkable_Shooting</li>
+			<li>AptitudeRemarkable_Melee</li>
+			<li>AptitudeRemarkable_Construction</li>
+			<li>AptitudeRemarkable_Mining</li>
+			<li>AptitudeRemarkable_Cooking</li>
+			<li>AptitudeRemarkable_Plants</li>
+			<li>AptitudeRemarkable_Animals</li>
+			<li>AptitudeRemarkable_Crafting</li>
+			<li>AptitudeRemarkable_Artistic</li>
+			<li>AptitudeRemarkable_Medicine</li>
+			<li>AptitudeRemarkable_Social</li>
+			<li>AptitudeRemarkable_Intellectual</li>
+			<li>AddictionImmune_Alcohol</li>
+			<li>AddictionImmune_GoJuice</li>
+			<li>AddictionImmune_Psychite</li>
+			<li>AddictionImmune_Smokeleaf</li>
+			<li>AddictionImmune_WakeUp</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>

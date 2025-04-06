@@ -1545,4 +1545,60 @@
   <Asset id="C:\Games\RimWorld\Mods\3419902642\Defs\APBasicResearchesDef.xml" hash="00-36-1C-48-3F-C8-C0-CF-01-8E-E0-BB-00-B5-94-35" />
   <Asset id="C:\Games\RimWorld\Mods\3419902642\Defs\APHiTechResearchesDef.xml" hash="9C-60-63-41-38-F3-9C-A1-B7-CE-2F-2E-50-E6-07-09" />
   <Asset id="C:\Games\RimWorld\Mods\3419902642\Defs\APMultiAnalyzerResearchesDef.xml" hash="5C-FB-89-22-7A-B0-5D-88-19-6C-90-66-CF-8E-D8-10" />
+  <Asset id="C:\Games\RimWorld\Mods\3415618239\Defs\DesignationCategoryDefs\DesignationCategoriy_Copyprints.xml" hash="54-00-DD-36-AE-DD-D3-FD-C2-4F-64-96-E1-18-93-B5" />
+  <Asset id="C:\Games\RimWorld\Mods\3448693012\Patches\Comp_ToughnessCache.xml" hash="A7-4D-12-DA-4E-6D-F7-92-BF-C5-C5-4A-2C-01-0B-75" />
+  <Asset id="C:\Games\RimWorld\Mods\3448693012\Patches\IncomingDamageFactor.xml" hash="EF-9C-2B-2B-3C-D7-2B-DE-D7-0F-74-EC-DB-AA-39-74" />
+  <Asset id="C:\Games\RimWorld\Mods\3448693012\Defs\GameComponents\ToughnessInitializer.xml" hash="BF-5E-6A-0F-33-15-E3-BF-C0-BD-9A-03-1E-BE-66-51" />
+  <Asset id="C:\Games\RimWorld\Mods\3448693012\Defs\SkillDefs\ToughnessSkill.xml" hash="CB-FC-10-A9-76-28-03-B2-D9-CC-3D-86-DB-3F-70-46" />
+  <Asset id="C:\Games\RimWorld\Mods\3448693012\Defs\Stats\StatDef_BleedRateDisplay.xml" hash="47-5E-67-E3-9A-31-81-BA-E1-E9-91-A6-6B-3A-F4-FC" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Patches\SaveStorageSettings.xml" hash="6C-6E-FD-4C-34-CC-62-83-78-19-8E-7A-2F-3F-9E-8E" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Defs\ResearchProjectDefs\ResearchProjects.xml" hash="07-26-16-CB-38-F4-08-89-91-A9-97-95-16-12-45-07" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Defs\ThoughtDefs\FrostyBeer.xml" hash="C4-86-A8-F9-FE-63-60-B2-A3-13-07-42-D1-B3-B8-FF" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Defs\ThingDefs_Buildings\Fridge_Base.xml" hash="E2-90-B9-24-DC-A7-4B-A6-AF-67-53-14-C2-B4-C5-92" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Defs\ThingDefs_Buildings\Fridge_Building.xml" hash="06-4B-82-06-DF-03-6D-00-1B-89-BC-D7-70-F1-1E-D4" />
+  <Asset id="C:\Games\RimWorld\Mods\2898411376\1.5\Defs\ThingDefs_Buildings\WallFridge_Building.xml" hash="78-9C-0A-D4-61-E7-19-AE-19-61-81-E5-A4-75-B3-15" />
+  <Asset id="C:\Games\RimWorld\Mods\2361911135\1.5\Defs\HairDefs\Hair def.xml" hash="CD-DB-B2-93-A0-4F-C1-A1-CC-D9-19-45-25-CF-A8-63" />
+  <Asset id="C:\Games\RimWorld\Mods\1886150617\1.5\Defs\HairDefs\Hairdefs.xml" hash="72-8E-DA-30-39-1E-11-61-B4-4D-63-CD-53-16-4E-02" />
+  <Asset id="C:\Games\RimWorld\Mods\3244456989\1.5\Defs\HairDefs\Hairdefs.xml" hash="7A-2B-AA-D1-CA-71-35-CA-7A-DB-DA-E3-EA-FF-BF-04" />
+  <Asset id="C:\Games\RimWorld\Mods\2895002564\1.5\Defs\HairDefs\Hairdefs.xml" hash="2C-FB-A7-6F-9B-7A-80-71-9E-37-62-63-11-0B-3B-01" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\Patches\Race_Patches.xml" hash="0E-BE-DC-53-1F-9E-72-9C-F8-09-B3-65-CB-D1-A1-FF" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\EmotionShape.xml" hash="34-B6-86-D5-58-43-B9-29-37-57-DC-92-B6-74-B6-2F" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\SkinShape.xml" hash="B0-6E-2D-31-87-97-C2-ED-32-B7-D5-86-02-FD-54-C1" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\EmotionType.xml" hash="9B-A0-02-63-F6-0E-91-E2-F2-2C-58-C4-5B-F3-88-A1" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\LidOptionShape.xml" hash="01-E7-47-78-48-20-89-A5-82-C5-05-9F-3E-66-85-03" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\LidType.xml" hash="E8-50-F6-5D-55-8A-5C-AB-B2-D6-3B-34-90-AC-0F-F7" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\EyeColorDefs\Biotech.xml" hash="5C-A8-C8-C2-2B-24-7C-73-43-19-31-76-7E-D5-C2-8A" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\Constant\Constant.xml" hash="0C-4C-E1-65-31-D2-B4-51-5E-D0-0D-45-8F-D5-5F-AC" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Strip.xml" hash="96-31-02-80-4B-71-52-92-14-72-1C-94-CA-38-6A-E1" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Wear.xml" hash="C9-C9-A7-DA-FE-AD-53-68-F0-57-75-67-94-21-9A-DD" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\DoBill.xml" hash="BD-35-51-45-F4-F6-8E-A6-41-7F-A0-E2-1F-82-7F-DA" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\EyeShape.xml" hash="97-AD-4F-DC-86-48-D9-DA-6D-6E-6E-E9-8B-4E-4C-04" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Research.xml" hash="B3-14-F6-CC-50-35-74-EE-07-C7-5E-F6-6A-C0-B3-61" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Lovin.xml" hash="3D-65-09-8E-F7-54-19-08-37-3E-3E-EA-9F-A2-AD-41" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\MouthType.xml" hash="1A-D3-E3-18-CA-E5-AB-49-9B-9C-99-40-BB-61-3D-32" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceAdjustmentDefs\defaults.xml" hash="5A-8B-B8-50-32-DB-3A-1F-6E-91-A1-79-5D-62-AB-32" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\LidShape.xml" hash="A8-8F-ED-66-E8-C6-B4-2B-D3-6B-F8-F9-86-93-E6-21" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTabDefs\FaceSelectTab.xml" hash="2F-FC-34-F7-A1-DA-99-32-07-23-15-8F-6A-AF-44-B5" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\EyeType.xml" hash="AA-17-05-66-BB-92-F0-1C-0D-19-37-8F-39-FF-78-E7" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\Constant\Thoughts.xml" hash="CE-91-79-E0-AF-21-90-D7-DE-AF-61-B3-FB-B9-A3-CD" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\RaceSample\Human\Constant\Constant.xml" hash="F3-28-03-0E-7B-0F-4A-7F-54-62-F8-14-DD-AC-80-6E" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Goto.xml" hash="BD-B1-5B-61-1C-BE-4A-46-60-AC-8D-97-9C-27-DF-B0" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\HeadShape.xml" hash="9B-73-21-F3-0C-13-6A-CC-B3-71-60-25-65-70-75-A3" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\BrowShape.xml" hash="17-90-92-C9-E2-68-D9-DF-39-BC-28-F9-69-46-57-EA" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\BrowType.xml" hash="8B-52-43-A6-7E-4A-87-2A-49-A1-99-10-DE-A0-B4-CC" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceShapeDefs\MouthShape.xml" hash="74-23-1A-52-2F-0C-E1-C9-1E-1C-0B-4B-87-62-60-C8" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\SocialRelax.xml" hash="71-8E-FA-EB-BF-61-44-D9-A1-4B-53-F5-69-69-C3-06" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Mine.xml" hash="45-63-C9-D6-4A-52-75-A2-A1-1E-7E-19-7D-10-C1-57" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\SkinType.xml" hash="54-11-38-1F-03-AD-96-2C-06-31-D5-26-8F-B9-99-1A" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\WaitCombat.xml" hash="AA-4F-9A-AD-96-83-B8-EA-5D-07-66-AC-2B-30-10-D5" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\FaceTypeDefs\Human\HeadType.xml" hash="A5-87-2F-70-06-9B-C1-C4-B1-14-89-6E-87-02-0C-8E" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\RaceSample\Human\ForJobs\Ingest.xml" hash="ED-16-C5-C0-5C-36-F0-D5-3F-15-93-19-96-79-DA-B6" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\AttackMelee.xml" hash="C9-FC-34-50-15-1F-2F-43-87-15-B3-5E-E9-1E-10-0F" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Ingest.xml" hash="F0-A5-0E-4B-70-21-44-17-79-B5-49-8F-21-2C-6C-B2" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\StandAndBeSociallyActive.xml" hash="5E-DF-6B-C0-5B-D8-B5-5D-92-03-A9-5D-B3-6C-F4-9D" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\Wait_Downed.xml" hash="8A-78-93-A0-CC-14-58-67-F9-4F-58-61-9D-D0-AB-CF" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\AttackStatic.xml" hash="E9-4C-43-4D-93-17-DB-6A-7E-BC-90-07-86-01-66-28" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\RemoveApparel.xml" hash="2C-E1-A9-A7-D5-C6-35-76-09-3E-5E-6C-A8-45-38-57" />
+  <Asset id="C:\Games\RimWorld\Mods\1635901197\1.5\Defs\AnimationDefs\ForJobs\LayDown.xml" hash="4D-21-4C-0B-5A-93-DE-85-ED-FA-1C-27-39-2F-2A-6E" />
+  <Asset id="C:\Games\RimWorld\Mods\725949967\1.5\Defs\HairDefs\Hairdefs.xml" hash="5D-F5-B3-8E-CB-08-54-37-3B-40-D4-D2-FA-3B-45-26" />
 </AssetsHash>

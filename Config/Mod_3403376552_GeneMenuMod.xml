@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimWorldGeneMenu.GeneMenuSettings">
+		<noMetabolismCostGenes />
+		<noComplexityGenes />
+		<noArchiteCostGenes />
+		<allMetabolismFree>True</allMetabolismFree>
+		<allComplexityFree>True</allComplexityFree>
+		<allArchiteFree>True</allArchiteFree>
+	</ModSettings>
+</SettingsBlock>

@@ -10,34 +10,31 @@ Direct3D:
     VRAM:     7576 MB
     Driver:   31.0.21921.1000
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.078 seconds
+- Completed reload, in  0.099 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.736300 ms
+UnloadTime: 1.253900 ms
 RimWorld 1.5.4409 rev1068
-Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Mod 2030354690 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
 Mod Stackable Chunks [1.4+] <packageId> (zhrocks11.stackablechunks_copy) is not in valid format. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E095FD060.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E096E5220.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022175307020.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000002217549A100.dll
 [HugsLib] version 11.0.5
 Initialized OmniCoreDrill patches
 3.0.9196 ::
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0AD26010.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022176CB5020.dll
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
 Dubs Skylight 1.5.2639
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0B655030.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0B66DA70.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0B678A80.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0B457010.dll
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E0B685A90.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022177229020.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022177241A60.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000002217724CA70.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022177259A80.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022177261290.dll
 GAGARIN: <color=green>StartUpStarted called!</color>
 GAGARIN: <color=green>Cache found</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -82,29 +79,29 @@ b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
 b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
 ROCKETMAN:No more RocketMan <color=gray>"Log spam"</color>...
 I hope you're fucking satisfied.
-GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>0.849</color> seconds 
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>0.914</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.625</color> seconds 
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.66</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.001</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>0.696</color> seconds 
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>0.804</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.171</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.15</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
 GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>9.428</color> seconds 
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>10.181</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
@@ -175,60 +172,29 @@ Some descriptionHyperlinks in HediffMoodNullifier had null def.
 Some descriptionHyperlinks in MoodNullifierImplant had null def. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.171</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.15</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Quarry:: Total 5 quarryable terrain found, processed: 사암, 화강암, 석회암, 점판암, 대리석
-GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.171</color> seconds 
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.15</color> seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Translation data for language Korean has 45108 errors. Generate translation report for more info. 
+Translation data for language Korean has 45085 errors. Generate translation report for more info. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+EnhancedOptions.Patcher.Patcher(): Starting Patching.
+EnhancedOptions.Patcher.Patcher(): Completed Patching.
+[Map Designer for 1.4] Initializing.... 
+[Map Designer] Finding biomes...
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
 (Better Pyromania) Rec room score calculation transpiler injected.
 Wall Light: v1.5.8874.26767
-Table Diner did not find Common Sense.
-[TrueTerrainColors v1.12.17] Loaded cached true colors for 357 terrain defs from file.
-Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000020E4F509020.dll
-PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
-GAGARIN: <color=green>StartUpFinished called!</color>
-Type InvisibleWorldObject probably needs a StaticConstructorOnStartup attribute, because it has a field invMat of type Material. All assets must be loaded in the main thread. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Type FactionDialogFor probably needs a StaticConstructorOnStartup attribute, because it has a field insultTex of type Texture2D. All assets must be loaded in the main thread. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-CharacterEditor v1.5.10 initializing...
-updating labels for korean...
-loading pawn slot content from file...
-character editor instance created
-checking editor settings...
-bodysizes genes are active
-CharacterEditor v1.5.10 ...done
-[RMK.NamesInYourLanguage] 번역된 이름: 21733 | 번역되지 않은 이름: 0 | 소요 시간: 332ms
-[HugsLib] initializing StackableChunks, StackXXL
-[StackableChunks] Chunk Stacks set too: 15
-[StackableChunks] Slag Stacks set too: 15
-[StackXXL] Loaded
-CE is trying to create default parameter lists ...
-creating default parameter list for genes...
-243 default entities for genes created
-creating default parameter list for objects...
-1374 default entities for objects created
-creating default parameter list for turrets...
-11 default entities for turrets created
-...lists created
-CE is trying to apply modified parameters...
-no modifications for genes
-no modifications for objects
-no modifications for lifestages
-...done
-Starting patches: 1398 - 4/6/2025 8:25:55 PM
-Finished transpiling 1398 methods - 4/6/2025 8:26:18 PM
-[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
-[MadSkills]: changed behavior of Great Memory trait.
-[StackableChunks] Chunk Stacks set too: 400
-[StackableChunks] Slag Stacks set too: 400
+Bool Settings: [ Tweak_HabringerTweaks :: False ] [ Tweak_ReplantableHarbinger :: False ] [ Tweak_ShowGenesTab :: False ] [ Tweak_FlattenComplexity :: False ] [ Tweak_FlattenMetabolism :: False ] [ Tweak_FlattenArchites :: False ] [ Tweak_MechanitorTweaks :: False ] [ Tweak_MechanitorDisableRange :: False ] [ Tweak_PlayerMechStats :: True ] [ Tweak_PoluxTweaks :: False ] [ Tweak_ReplantablePolux :: False ] [ Tweak_IgnoreArtificialBuildings :: False ] [ Tweak_StrapsArentClothes :: False ] [ Tweak_YouLookFine :: False ] [ Tweak_DarklightGlowPods :: False ] [ Tweak_DisableDesiredApparel :: False ] [ Tweak_NoMemeLimit :: False ] [ Tweak_ProperSuppression :: False ] [ Tweak_UnlockedIdeologyBuildings :: False ] [ Tweak_GauranlenTweaks :: False ] [ Tweak_ReplantableGauranlen :: False ] [ Tweak_NoBiocoding :: False ] [ Tweak_AllowAnyBuildingsInThroneRoom :: False ] [ Tweak_AllowAltarInThroneRoom :: False ] [ Tweak_DelayedRoyalty :: False ] [ Tweak_FreeMeditation :: False ] [ Tweak_NoBackstoryLimits :: False ] [ Tweak_NoTradingPermit :: False ] [ Tweak_UninstallableMechShields :: False ] [ Tweak_WaitThisIsBetter :: False ] [ Tweak_AnimaTweaks :: False ] [ Tweak_DisableAnimaScream :: False ] [ Tweak_ReplantableAnima :: False ] [ Tweak_NatureShrinesAlwaysBuildable :: False ] [ Tweak_BetterGloomlight :: True ] [ Tweak_BetterGloomlightSunlamp :: True ] [ Tweak_BetterGloomlightDarklight :: False ] [ Tweak_NoDeathAcidifiers :: True ] [ Tweak_PinataDeathAcidifiers :: True ] [ Tweak_TradeableMeals :: False ] [ Tweak_TraderPawnAlert :: False ] [ Tweak_OrbitalTraderAlert :: False ] [ Tweak_DontGenerateRelations :: False ] [ Tweak_DisableLethalDamageThreshold :: True ] [ Tweak_HayDoesntNeedCooling :: True ] [ Tweak_UsefulGrass :: True ] [ Tweak_UsefulBushes :: True ] [ Tweak_AnimalResourceLabel :: True ] [ Tweak_DisableSpecialSkinShader :: True ] [ Tweak_BoomalopesBleedChemfuel :: True ] [ Tweak_BuildablePackedDirt :: True ] [ Tweak_MinifiableCryptosleep :: True ] [ Tweak_ChattyComms :: True ] [ Tweak_DestroyAnything :: False ] [ Tweak_DisableNarrowHeads :: False ] [ Tweak_DontPackFood :: False ] [ Tweak_FullDeconstructReturn :: True ] [ Tweak_GlowingAmbrosia :: False ] [ Tweak_GlowingHealroot :: False ] [ Tweak_GrowableAmbrosia :: True ] [ Tweak_GrowableGrass :: True ] [ Tweak_GrowableMushrooms :: True ] [ Tweak_GrowableWildBerries :: True ] [ Tweak_HealrootToXerigium :: False ] [ Tweak_HiddenWires :: True ] [ Tweak_IncidentPawnStats :: True ] [ Tweak_InfestationBlockingFloors :: True ] [ Tweak_InsultingSpreeNerf :: True ] [ Tweak_CheaperHiddenConduits :: False ] [ Tweak_ImpassableDeepWater :: False ] [ Tweak_LagFreeLamps :: True ] [ Tweak_LowerPrisonerExpectations :: True ] [ Tweak_MegaslothToMegatherium :: False ] [ Tweak_NextRestockTimer :: True ] [ Tweak_SturdierBridges :: False ] [ Tweak_RecreationalSmokeleaf :: False ] [ Tweak_NoBreakdowns :: True ] [ Tweak_WaterproofElectronics :: True ] [ Tweak_LowerShellLayering :: True ] [ Tweak_NoFriendShapedManhunters :: False ] [ Tweak_NFSM_PreventByNuzzleable :: False ] [ Tweak_NFSM_PreventWhenTaming :: False ] [ Tweak_TaintDisabled :: True ] [ Tweak_TaintOnRot :: True ] [ Tweak_OnlyTaintFirstLayer :: True ] [ Tweak_PrisonersDontHaveKeys :: True ] [ Tweak_PDHKPrisoners :: True ] [ Tweak_PDHKSlaves :: True ] [ Tweak_PDHKOwnDoor :: False ] [ Tweak_SlimRim :: True ] [ Tweak_SlimRimFat :: True ] [ Tweak_SlimRimHulk :: True ] [ Tweak_SlimRimThin :: False ] [ Tweak_TraitCountAdjustment :: True ] [ Tweak_AncientDeconstruction :: False ] [ Tweak_AncientDeconstructionProper :: False ] [ Tweak_AncientReconstruction :: False ] [ Tweak_DynamicPopulation :: False ] [ Tweak_DisableRaidStrat_AutoFlee :: False ] [ Tweak_DisableRaidStrat_BreachRaids :: False ] [ Tweak_DisableRaidStrat_DropPods :: False ] [ Tweak_DisableRaidStrat_SapperRaids :: False ] [ Tweak_DisableRaidStrat_SiegeRaids :: False ] [ Tweak_DisableRaidStrat_WaterRaids :: False ] [ Tweak_SkilledStoneCutting :: True ] [ Tweak_FasterSmoothing :: True ] [ Tweak_SkillTweaks :: True ] [ Tweak_HuntersCanMelee :: True ] [ Tweak_HuntersCanMeleeFisting :: True ] [ Tweak_MechanoidAdaptation :: False ] [ Tweak_PreReleaseShipParts :: False ] [ Tweak_PowerAdjusting :: True ] [ Tweak_TechTraversal_ShowTechCounter :: False ] [ Tweak_TechTraversal_Enabled :: False ] [ Tweak_TechTraversal_AlwaysLowestLevel :: False ] [ Tweak_TechTraversal_IgnoreTechprints :: False ] [ Tweak_TechTraversal_OnlyVanillaResearch :: False ] [ Tweak_MetalDoesntBurn :: True ] [ Tweak_NoMineableComponents :: False ] [ Tweak_NoMineablePlasteel :: False ] [ Tweak_OldComponentNames :: False ] [ Tweak_PrettyPreciousMetals :: True ] [ Tweak_StrongerSteel :: True ] [ Tweak_StackableChunks :: True ] [ TweakSection_Vanilla_IncidentControl :: False ] [ TweakSection_Vanilla_PennedAnimals :: True ] [ Tweak_NFSM_PreventByTrainabilityIntermediate :: True ] [ Tweak_NFSM_PreventByTrainabilityAdvanced :: True ]
+Int Settings: [ Tweak_MechanitorBandwidthBase :: 6 ] [ Tweak_MechanitorControlGroupBase :: 2 ] [ Tweak_BandwidthPerBandNode :: 1 ] [ Tweak_MechSkillLevel :: 10 ] [ Tweak_GauranlenMossGrowthDays :: 5 ] [ Tweak_DryadMaxCount :: 4 ] [ Tweak_DryadSpawnDays :: 8 ] [ Tweak_DryadCocoonDays :: 6 ] [ Tweak_GaumakerCocoonDays :: 6 ] [ Tweak_GaumakerPodDays :: 4 ] [ Tweak_GaumakerSeedYield :: 1 ] [ Tweak_AnimaScreamDebuff :: -6 ] [ Tweak_AnimaScreamStackLimit :: 3 ] [ Tweak_AnimaNaturalBuildingMax :: 4 ] [ Tweak_NFSM_PreventByCombatPower :: 60 ] [ Tweak_DynamicPopulation_CriticallyLow :: 0 ] [ Tweak_DynamicPopulation_Low :: 1 ] [ Tweak_DynamicPopulation_Typical :: 4 ] [ Tweak_DynamicPopulation_High :: 7 ] [ Tweak_DynamicPopulation_CriticallyHigh :: 11 ] [ Tweak_DynamicPopulation_Maximum :: 20 ] [ Tweak_SkillLossThreshold :: 0 ] [ Tweak_SkillLearningPerDay :: 20000 ] [ Tweak_StackableChunks_Stone :: 495 ] [ Tweak_StackableChunks_Slag :: 500 ] [ Tweak_PowerAdj_StandingLamp :: 30 ] [ Tweak_PowerAdj_SunLamp :: 2900 ] [ Tweak_PowerAdj_WallLamp :: 30 ] [ Tweak_PowerAdj_FloodLight :: 100 ] [ Tweak_PowerAdj_TubeTelevision :: 200 ] [ Tweak_PowerAdj_FlatscreenTelevision :: 330 ] [ Tweak_PowerAdj_MegascreenTelevision :: 450 ] [ Tweak_PowerAdj_OrbitalTradeBeacon :: 40 ] [ Tweak_PowerAdj_CommsConsole :: 200 ] [ Tweak_PowerAdj_MoisturePump :: 150 ] [ Tweak_PowerAdj_GroundPenetratingScanner :: 700 ] [ Tweak_PowerAdj_LongRangeMineralScanner :: 700 ] [ Tweak_PowerAdj_MultiAnalyzer :: 200 ] [ Tweak_PowerAdj_VitalsMonitor :: 80 ] [ Tweak_PowerAdj_WoodFiredGenerator :: -10000 ] [ Tweak_PowerAdj_ChemfuelPoweredGenerator :: -10000 ] [ Tweak_PowerAdj_WindTurbine :: -23000 ] [ Tweak_PowerAdj_SolarGenerator :: -17000 ] [ Tweak_PowerAdj_GeothermalGenerator :: -36000 ] [ Tweak_PowerAdj_WatermillGenerator :: -11000 ] [ Tweak_PowerAdj_ElectricTailoringBench :: 120 ] [ Tweak_PowerAdj_ElectricSmithy :: 210 ] [ Tweak_PowerAdj_TableMachining :: 350 ] [ Tweak_PowerAdj_ElectricStove :: 350 ] [ Tweak_PowerAdj_ElectricSmelter :: 700 ] [ Tweak_PowerAdj_BiofuelRefinery :: 170 ] [ Tweak_PowerAdj_FabricationBench :: 250 ] [ Tweak_PowerAdj_HiTechResearchBench :: 250 ] [ Tweak_PowerAdj_ElectricCrematorium :: 250 ] [ Tweak_PowerAdj_HydroponicsBasin :: 70 ] [ Tweak_PowerAdj_DeepDrill :: 200 ] [ Tweak_PowerAdj_NutrientPasteDispenser :: 200 ] [ Tweak_PowerAdj_Turret_MiniTurret :: 80 ] [ Tweak_PowerAdj_Turret_Autocannon :: 150 ] [ Tweak_PowerAdj_Turret_Sniper :: 150 ] [ Tweak_PowerAdj_Turret_FoamTurret :: 80 ] [ Tweak_PowerAdj_Turret_RocketswarmLauncher :: 150 ] [ Tweak_PowerAdj_Ship_Reactor :: -10000 ] [ Tweak_PowerAdj_PsychicEmanator :: 200 ] [ Tweak_PowerAdj_VanometricPowerCell :: -10000 ] [ Tweak_PowerAdj_InfiniteChemreactor :: 300 ] [ Tweak_PowerAdj_Autodoor :: 50 ] [ Tweak_PowerAdj_Heater :: 180 ] [ Tweak_PowerAdj_Cooler :: 200 ] [ Tweak_PowerAdj_UnstablePowerCell :: -4000 ] [ Tweak_PowerAdj_ShipLandingBeacon :: 50 ] [ Tweak_PowerAdj_SleepAccelerator :: 50 ] [ Tweak_PowerAdj_BiosculpterPod :: 200 ] [ Tweak_PowerAdj_NeuralSupercharger :: 400 ] [ Tweak_PowerAdj_LightBall :: 60 ] [ Tweak_PowerAdj_Loudspeaker :: 150 ] [ Tweak_PowerAdj_Autobong :: 150 ] [ Tweak_PowerAdj_DeathrestCasket :: 100 ] [ Tweak_PowerAdj_Hemopump :: 100 ] [ Tweak_PowerAdj_HemogenAmplifier :: 100 ] [ Tweak_PowerAdj_GlucosoidPump :: 100 ] [ Tweak_PowerAdj_PsychofluidPump :: 100 ] [ Tweak_PowerAdj_DeathrestAccelerator :: 800 ] [ Tweak_PowerAdj_BandNode :: 300 ] [ Tweak_PowerAdj_ToxifierGenerator :: -14000 ] [ Tweak_PowerAdj_GeneAssembler :: 100 ] [ Tweak_PowerAdj_GeneBank :: 40 ] [ Tweak_PowerAdj_GeneExtractor :: 200 ] [ Tweak_PowerAdj_GrowthVat :: 200 ] [ Tweak_PowerAdj_PollutionPump :: 200 ] [ Tweak_PowerAdj_WastepackAtomizer :: 400 ] [ Tweak_PowerAdj_GeneProcessor :: 50 ] [ Tweak_PowerAdj_MechBooster :: 200 ] [ Tweak_PowerAdj_MechGestator :: 350 ] [ Tweak_PowerAdj_LargeMechGestator :: 500 ] [ Tweak_PowerAdj_SubcoreEncoder :: 50 ] [ Tweak_PowerAdj_SubcoreSoftscanner :: 150 ] [ Tweak_PowerAdj_SubcoreRipscanner :: 150 ] [ Tweak_PowerAdj_BasicRecharger :: 200 ] [ Tweak_PowerAdj_StandardRecharger :: 400 ] [ Tweak_PowerAdj_SecurityDoor :: 50 ] [ Tweak_PowerAdj_ElectricInhibitor :: 70 ] [ Tweak_PowerAdj_ProximityDetector :: 72 ] [ Tweak_PowerAdj_AtmosphericHeater :: 1500 ] [ Tweak_PowerAdj_FrenzyInducer :: 150 ] [ Tweak_PowerAdj_SleepSuppressor :: 300 ] [ Tweak_PowerAdj_BioferriteGenerator :: -40000 ] [ Tweak_PowerAdj_Electroharvester :: -20000 ] [ Tweak_PowerAdj_BioferriteShaper :: 250 ] [ Tweak_PowerAdj_SerumCentrifuge :: 380 ] [ Tweak_PowerAdj_BioferriteHarvester :: 100 ] [ Tweak_PowerAdj_HiddenGeneBank :: 40 ] [ Tweak_PowerAdj_CoreDrill :: 2500 ] [ Tweak_PowerAdj_sd_adv_powergen_adv_wind_turbine :: -40000 ] [ Tweak_PowerAdj_sd_adv_powergen_adv_solar_generator :: -10 ] [ Tweak_PowerAdj_sd_adv_powergen_adv_geothermal_generator :: -75000 ] [ Tweak_PowerAdj_sd_adv_powergen_nuclear_power_plant :: -200000 ] [ Tweak_PowerAdj_sd_adv_powergen_WatermillGenerator :: -22000 ] [ Tweak_PowerAdj_funamu_Baka_Light_Aho_EX :: 100 ] [ Tweak_PowerAdj_OIN_InfiniteNeutroreactor :: 600 ] [ Tweak_PowerAdj_MURWallSunLamp :: 2000 ] [ Tweak_PowerAdj_VaultAutodoor :: 50 ] [ Tweak_PowerAdj_owl_refrigerator :: 80 ] [ Tweak_PowerAdj_owl_doublerefrigerator :: 150 ] [ Tweak_PowerAdj_RockMill :: 350 ] [ Tweak_PowerAdj_CompostBarrel :: 50 ] [ Tweak_PowerAdj_RFF_ScrapGenerator :: -10000 ] [ Tweak_PowerAdj_PulsefireTurretGun :: 400 ] [ Tweak_PowerAdj_PulsefireTwinCannon :: 400 ] [ Tweak_PowerAdj_RimFridge_SingleRefrigerator :: 70 ] [ Tweak_PowerAdj_RimFridge_Refrigerator :: 100 ] [ Tweak_PowerAdj_RimFridge_QuadRefrigerator :: 140 ] [ Tweak_PowerAdj_RimFridge_SingleWallRefrigerator :: 70 ] [ Tweak_PowerAdj_RimFridge_WallRefrigerator :: 100 ]
+Int Range Settings: [ Tweak_TraitCountRange :: 8~8 ]
+Float Settings: [ Tweak_SpawnPregnancyChance :: 0.03 ] [ Tweak_MechDischargeRate :: 0.05 ] [ Tweak_MechAdj_GlobalWorkSpeed :: 2 ] [ Tweak_MechAdj_ConstructoidWorkSpeed :: 2 ] [ Tweak_MechAdj_AgrihandWorkSpeed :: 2 ] [ Tweak_MechAdj_CleansweeperWorkSpeed :: 2 ] [ Tweak_PoluxEffectRadius :: 7.9 ] [ Tweak_PoluxEffectRate :: 1 ] [ Tweak_SuppressionThreshold :: 1 ] [ Tweak_GauranlenArtificialBuildingRadius :: 7.9 ] [ Tweak_GauranlenConnectionGain :: 0.01 ] [ Tweak_GauranlenConnectionLoss :: 1 ] [ Tweak_GauranlenConnectionLossBuildings :: 1 ] [ Tweak_GauranlenMossGrowthRadius :: 7.9 ] [ Tweak_MeditationGain :: 0.5 ] [ Tweak_AnimaScreamDuration :: 5 ] [ Tweak_AnimaArtificialBuildingRadius :: 34.9 ] [ Tweak_AnimaNaturalBuildingRadius :: 9.9 ] [ Tweak_ShrineArtificialBuildingRadius :: 34.9 ] [ Tweak_ShrineNaturalBuildingRadius :: 9.9 ] [ Tweak_NFSM_PreventByWildness :: 0.65 ] [ Tweak_FasterSmoothingFactor :: 10 ] [ Tweak_SkillLossMultiplier :: 0 ] [ Tweak_SkillGainMultiplier :: 1 ] [ Tweak_MechanoidHeatArmor :: 2 ] [ Tweak_TechTraversal_PercentageNeeded :: 0.8 ]
+Float Range Settings: [ Tweak_GauranlenInitialConnection :: 0.25~0.449999988 ]
 Infestation Blocking Terrains:콘크리트 (Concrete)
 포장 바닥 (PavedTile)
 철제 바닥 (MetalTile)
@@ -271,6 +237,139 @@ Infestation Blocking Terrains:콘크리트 (Concrete)
 벽돌 바닥 (BrickFloor)
 교차 벽돌 바닥 (HBBrickFloor)
 
+Lag Free Lamps patched:횃불 (TorchLamp)
+벽걸이 횃불 (TorchWallLamp)
+화로 (Brazier)
+희미한 화로 (DarklightBrazier)
+희미한 횃불 (Darktorch)
+희미한 버섯 횃불 (DarktorchFungus)
+피의 횃불 (SanguphageMeetingTorch)
+先進投光照明EX（火） (funamu_Baka_Light_Aho_Torch_EX)
+
+Waterproof electronics patched:스탠드 전등 (StandingLamp)
+태양등 (SunLamp)
+벽등 (WallLamp)
+투광 조명 (FloodLight)
+음극선관 TV (TubeTelevision)
+평면 TV (FlatscreenTelevision)
+초대형 TV (MegascreenTelevision)
+무역 송신기 (OrbitalTradeBeacon)
+통신기 (CommsConsole)
+습도 조정 펌프 (MoisturePump)
+지면 투과 탐색기 (GroundPenetratingScanner)
+장거리 광물 탐색기 (LongRangeMineralScanner)
+복합 분석기 (MultiAnalyzer)
+생체신호 모니터 (VitalsMonitor)
+전선 (PowerConduit)
+매립 전선 (HiddenConduit)
+방수 전선 (WaterproofConduit)
+전원 스위치 (PowerSwitch)
+나무 화력발전기 (WoodFiredGenerator)
+화학연료 화력발전기 (ChemfuelPoweredGenerator)
+풍력 발전기 (WindTurbine)
+축전지 (Battery)
+태양광 발전기 (SolarGenerator)
+지열 발전기 (GeothermalGenerator)
+수력 발전기 (WatermillGenerator)
+전기 재봉 작업대 (ElectricTailoringBench)
+전기 단조 작업대 (ElectricSmithy)
+기계 작업대 (TableMachining)
+전기 스토브 (ElectricStove)
+전기로 (ElectricSmelter)
+연료 정제기 (BiofuelRefinery)
+조립 작업대 (FabricationBench)
+첨단 연구 작업대 (HiTechResearchBench)
+전기 화장터 (ElectricCrematorium)
+수경재배기 (HydroponicsBasin)
+심층 굴착기 (DeepDrill)
+영양죽 배급기 (NutrientPasteDispenser)
+소형 기관포 (Turret_MiniTurret)
+대형 기관포 (Turret_Autocannon)
+저격포 (Turret_Sniper)
+거품 포탑 (Turret_FoamTurret)
+로켓탄막 발사기 (Turret_RocketswarmLauncher)
+우주선 골조 (Ship_Beam)
+우주선 동면장치 (Ship_CryptosleepCasket)
+연산 코어 (Ship_ComputerCore)
+반응로 (Ship_Reactor)
+추진기 (Ship_Engine)
+탐지기 모듈 (Ship_SensorCluster)
+정신파동 발생장치 (PsychicEmanator)
+배노메트릭 발전기 (VanometricPowerCell)
+무한 화학연료 생성기 (InfiniteChemreactor)
+자동문 (Autodoor)
+전열기 (Heater)
+냉방기 (Cooler)
+불안정한 발전기 (UnstablePowerCell)
+함선 신호기 (ShipLandingBeacon)
+수면 가속기 (SleepAccelerator)
+생체 재구축기 (BiosculpterPod)
+신경 과충전기 (NeuralSupercharger)
+미러볼 (LightBall)
+대형 스피커 (Loudspeaker)
+연통 기계 (Autobong)
+죽음안식 관 (DeathrestCasket)
+혈액펌프 (Hemopump)
+혈액정수 증폭기 (HemogenAmplifier)
+글루코소이드 펌프 (GlucosoidPump)
+사이코플루이드 펌프 (PsychofluidPump)
+죽음안식 가속기 (DeathrestAccelerator)
+대역폭 확장기 (BandNode)
+독소 발전기 (ToxifierGenerator)
+유전자 조합기 (GeneAssembler)
+유전자 저장고 (GeneBank)
+유전자 추출기 (GeneExtractor)
+성장 배양기 (GrowthVat)
+오염물질 펌프 (PollutionPump)
+폐기물 원자분해기 (WastepackAtomizer)
+유전자 처리기 (GeneProcessor)
+메카노이드 증강기 (MechBooster)
+메카노이드 배양기 (MechGestator)
+대형 메카노이드 배양기 (LargeMechGestator)
+서브코어 부호기 (SubcoreEncoder)
+서브코어 소프트스캐너 (SubcoreSoftscanner)
+서브코어 립스캐너 (SubcoreRipscanner)
+메카노이드 충전기 (BasicRecharger)
+대형 메카노이드 충전기 (StandardRecharger)
+보안 문 (SecurityDoor)
+전기 억제기 (ElectricInhibitor)
+접근 탐지기 (ProximityDetector)
+대기 난로 (AtmosphericHeater)
+광란 유도기 (FrenzyInducer)
+수면 억제기 (SleepSuppressor)
+생체강 발전기 (BioferriteGenerator)
+전기 수확기 (Electroharvester)
+생체강 성형 작업대 (BioferriteShaper)
+혈청 연구대 (SerumCentrifuge)
+생체강 수확기 (BioferriteHarvester)
+비밀 유전자 저장고 (HiddenGeneBank)
+코어 드릴 (CoreDrill)
+고급 풍력 발전기 (sd_adv_powergen_adv_wind_turbine)
+고급 태양열 발전기 (sd_adv_powergen_adv_solar_generator)
+고급 지열 발전기 (sd_adv_powergen_adv_geothermal_generator)
+고급 원자로 발전기 (sd_adv_powergen_nuclear_power_plant)
+고급 수력 발전기 (sd_adv_powergen_WatermillGenerator)
+Pulsefire Turret (PulsefireTurretGun)
+Pulsefire Twin Cannon (PulsefireTwinCannon)
+한칸 냉장고 (RimFridge_SingleRefrigerator)
+냉장고 (RimFridge_Refrigerator)
+네칸 냉장고 (RimFridge_QuadRefrigerator)
+내벽형 한칸 냉장고 (RimFridge_SingleWallRefrigerator)
+내벽형 냉장고 (RimFridge_WallRefrigerator)
+先進投光照明EX (funamu_Baka_Light_Aho_EX)
+Infinite neutroreactor (OIN_InfiniteNeutroreactor)
+Wall sun lamp (MURWallSunLamp)
+볼트 자동문 (VaultAutodoor)
+냉장고 (owl_refrigerator)
+대형 냉장고 (owl_doublerefrigerator)
+번화계 축전지 (AdvancedBattery)
+향상된 축전지 (LowTierBattery)
+고급 축전지 (MidTierBattery)
+초월공학 축전지 (VeryAdvancedBattery)
+돌 분쇄기 (RockMill)
+퇴비 숙성고 (CompostBarrel)
+식물잔해 발전기 (RFF_ScrapGenerator)
+
 Stone Chunks Patched:
 사암 덩어리 (ChunkSandstone)
 화강암 덩어리 (ChunkGranite)
@@ -282,3 +381,575 @@ Slag Chunks Patched:
 메카노이드 고철 덩어리 (ChunkMechanoidSlag)
 고철 덩어리 (ChunkSlagSteel)
 
+Table Diner did not find Common Sense.
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 358 terrain defs from file.
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000022207327010.dll
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+GAGARIN: <color=green>StartUpFinished called!</color>
+Type InvisibleWorldObject probably needs a StaticConstructorOnStartup attribute, because it has a field invMat of type Material. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type FactionDialogFor probably needs a StaticConstructorOnStartup attribute, because it has a field insultTex of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 initializing...
+updating labels for korean...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.10 ...done
+[RMK.NamesInYourLanguage] 번역된 이름: 21733 | 번역되지 않은 이름: 0 | 소요 시간: 340ms
+[HugsLib] initializing ToughnessSkillMod, StackableChunks, StackXXL
+[StackableChunks] Chunk Stacks set too: 400
+[StackableChunks] Slag Stacks set too: 400
+[StackXXL] Loaded
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+247 default entities for genes created
+creating default parameter list for objects...
+1386 default entities for objects created
+creating default parameter list for turrets...
+13 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+no modifications for objects
+no modifications for lifestages
+...done
+Starting patches: 1426 - 4/6/2025 10:47:48 PM
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 24751.
+Total: 356.412100 ms (FindLiveObjects: 1.292900 ms CreateObjectMapping: 1.142700 ms MarkObjects: 353.692800 ms  DeleteObjects: 0.283400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 24751.
+Total: 357.228800 ms (FindLiveObjects: 1.258700 ms CreateObjectMapping: 1.013700 ms MarkObjects: 354.812900 ms  DeleteObjects: 0.143300 ms)
+
+Finished transpiling 1426 methods - 4/6/2025 10:48:13 PM
+Achtung v3.9.5.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 25493.
+Total: 479.437100 ms (FindLiveObjects: 1.026100 ms CreateObjectMapping: 1.243800 ms MarkObjects: 477.056800 ms  DeleteObjects: 0.109500 ms)
+
+Achtung v3.9.5.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 272 unused Assets to reduce memory usage. Loaded Objects now: 25440.
+Total: 513.128100 ms (FindLiveObjects: 1.041700 ms CreateObjectMapping: 1.147400 ms MarkObjects: 510.332700 ms  DeleteObjects: 0.605900 ms)
+
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Prepare Carefully] Finished counting 869 thing definition(s)
+[Prepare Carefully] Loaded equipment database with 40 material(s)
+[Prepare Carefully] Loaded equipment database with 776 equipment item(s)
+[Prepare Carefully] Loaded equipment database with 11 style(s)
+[Prepare Carefully] Loaded equipment database with 106 apparel item(s)
+Trying to remove 직설적 but 로치 doesn't have it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.304100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 26824.
+Total: 519.214800 ms (FindLiveObjects: 1.498000 ms CreateObjectMapping: 1.471000 ms MarkObjects: 516.179000 ms  DeleteObjects: 0.066700 ms)
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - UnlimitedHugs.HugsLib
+  - vnull.HideYourWealth
+  - Mlie.OmniCoreDrill
+  - savestoragesettings.kv.rw.fishtmp
+  - Grizzlemethis.TradingSpot.RW
+  - Mlie.SdAdvancedPowergeneration
+  - Solaris.Copyprint
+  - Erin.Hairredux
+  - Jaxxa.ED.EnhancedOptions
+  - Mlie.SmarterDeconstructionAndMining
+  - UNAGI.Hairs.B.Zibunyou
+  - won2.hair
+  - UNAGI.Kawaii.hair1
+  - rimsenal.hair
+  - KLR.GloomyHairMk2FORKED
+  - Neronix17.Retexture.RimsenalRimhair
+  - Nals.FacialAnimation
+  - tr.AutoCutBlight
+  - Mlie.PulsefireTurret
+  - tyinplop.ToughnessSkillMod
+  - rimfridge.kv.rw
+  - zhuma.genemenu
+  - zylle.MapDesigner
+  - Botaxalim.LessAddiction
+  - Aelanna.BetterPyromania
+  - Alentuon.LetsBeFirends
+  - Fluffy.Blueprints
+  - void.charactereditor
+  - mrmikita.smartageing
+  - Ogliss.TheWhiteCrayon.Quarry
+  - ganjamannl.NoMoreFilth
+  - RunningBugs.WorldMapEditor
+  - zhrocks11.stackablechunks_copy (incompatible version)
+  - lis2137.NoMoodImplantNoStatDecrease
+  - rabiosus.BlueprintPatch
+  - silkcircuit.manmadegeysersmod
+  - Harmonea.WildSpawn
+  - funamusea.BakasugeeLightEX
+  - DizzyEevee.DeclutteredThronerooms
+  - DizzyEevee.DeathlessMeansDeathless
+  - dgacr.corpsetochemfuel
+  - Troopersmith1.DeathRattle
+  - FSNW.WXCSC
+  - ochino.nOcosTpsycast
+  - Indeed.StackXXL
+  - Vash.PawnTweaker
+  - Oharo.InfiniteNeutroreactor
+  - Smxrez.everfiringturrets
+  - Murmur.WallLight
+  - SickBoyWi.Vault.OnePointOne
+  - joseasoler.TradingOptions
+  - Neronix17.TweaksGalore
+  - smashphil.dropspot
+  - GT.Sam.TilledSoil
+  - antaioz.tdiner
+  - Owlchemist.FridgeUtilities
+  - aRandomKiwi.RaidsForMe
+  - avilmask.NonUnoPinata
+  - dvs.NoRandomRelations
+  - Stolij.MoreBatteries
+  - m00nl1ght.MapPreview
+  - ratys.madskills
+  - greysuki.RF.fertilefields
+  - thereallemon.factioncontrol
+  - EdB.PrepareCarefully
+  - Dubwise.DubsSkylights
+  - Mlie.DrugsAreNotFood
+  - brrainz.achtung
+  - Mehni.PickUpAndHaul
+  - RMK.translation
+  - DesTiNy.RKTM.Mod
+  - Taranchuk.PerformanceOptimizer
+  - Krkr.RocketMan
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+checking editor settings...
+bodysizes genes are active
+Unloading 1 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 31523.
+Total: 575.832400 ms (FindLiveObjects: 1.336300 ms CreateObjectMapping: 1.861300 ms MarkObjects: 572.533000 ms  DeleteObjects: 0.101000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.463900 ms
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.10 ...done
+
+Unloading 270 unused Assets to reduce memory usage. Loaded Objects now: 32549.
+Total: 545.920700 ms (FindLiveObjects: 2.002000 ms CreateObjectMapping: 1.800100 ms MarkObjects: 541.502100 ms  DeleteObjects: 0.616200 ms)
+
+Achtung v3.9.5.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 32787.
+Total: 592.805500 ms (FindLiveObjects: 1.685200 ms CreateObjectMapping: 1.471300 ms MarkObjects: 589.363000 ms  DeleteObjects: 0.285900 ms)
+
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Prepare Carefully] Finished counting 869 thing definition(s)
+[Prepare Carefully] Loaded equipment database with 40 material(s)
+[Prepare Carefully] Loaded equipment database with 776 equipment item(s)
+[Prepare Carefully] Loaded equipment database with 11 style(s)
+[Prepare Carefully] Loaded equipment database with 106 apparel item(s)
+Achtung v3.9.5.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 290 unused Assets to reduce memory usage. Loaded Objects now: 33924.
+Total: 814.175100 ms (FindLiveObjects: 39.499800 ms CreateObjectMapping: 2.040800 ms MarkObjects: 768.973600 ms  DeleteObjects: 3.660700 ms)
+
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+[Prepare Carefully] Finished counting 869 thing definition(s)
+[Prepare Carefully] Loaded equipment database with 42 material(s)
+[Prepare Carefully] Loaded equipment database with 787 equipment item(s)
+[Prepare Carefully] Loaded equipment database with 11 style(s)
+[Prepare Carefully] Loaded equipment database with 106 apparel item(s)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.751800 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 34766.
+Total: 616.056900 ms (FindLiveObjects: 2.080900 ms CreateObjectMapping: 1.797200 ms MarkObjects: 612.091200 ms  DeleteObjects: 0.087200 ms)
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - UnlimitedHugs.HugsLib
+  - vnull.HideYourWealth
+  - Mlie.OmniCoreDrill
+  - savestoragesettings.kv.rw.fishtmp
+  - Grizzlemethis.TradingSpot.RW
+  - Mlie.SdAdvancedPowergeneration
+  - Solaris.Copyprint
+  - Erin.Hairredux
+  - Jaxxa.ED.EnhancedOptions
+  - Mlie.SmarterDeconstructionAndMining
+  - UNAGI.Hairs.B.Zibunyou
+  - won2.hair
+  - UNAGI.Kawaii.hair1
+  - rimsenal.hair
+  - KLR.GloomyHairMk2FORKED
+  - Neronix17.Retexture.RimsenalRimhair
+  - Nals.FacialAnimation
+  - tr.AutoCutBlight
+  - Mlie.PulsefireTurret
+  - tyinplop.ToughnessSkillMod
+  - rimfridge.kv.rw
+  - zhuma.genemenu
+  - zylle.MapDesigner
+  - Botaxalim.LessAddiction
+  - Aelanna.BetterPyromania
+  - Alentuon.LetsBeFirends
+  - Fluffy.Blueprints
+  - void.charactereditor
+  - mrmikita.smartageing
+  - Ogliss.TheWhiteCrayon.Quarry
+  - ganjamannl.NoMoreFilth
+  - RunningBugs.WorldMapEditor
+  - zhrocks11.stackablechunks_copy (incompatible version)
+  - lis2137.NoMoodImplantNoStatDecrease
+  - rabiosus.BlueprintPatch
+  - silkcircuit.manmadegeysersmod
+  - Harmonea.WildSpawn
+  - funamusea.BakasugeeLightEX
+  - DizzyEevee.DeclutteredThronerooms
+  - DizzyEevee.DeathlessMeansDeathless
+  - dgacr.corpsetochemfuel
+  - Troopersmith1.DeathRattle
+  - FSNW.WXCSC
+  - ochino.nOcosTpsycast
+  - Indeed.StackXXL
+  - Vash.PawnTweaker
+  - Oharo.InfiniteNeutroreactor
+  - Smxrez.everfiringturrets
+  - Murmur.WallLight
+  - SickBoyWi.Vault.OnePointOne
+  - joseasoler.TradingOptions
+  - Neronix17.TweaksGalore
+  - smashphil.dropspot
+  - GT.Sam.TilledSoil
+  - antaioz.tdiner
+  - Owlchemist.FridgeUtilities
+  - aRandomKiwi.RaidsForMe
+  - avilmask.NonUnoPinata
+  - dvs.NoRandomRelations
+  - Stolij.MoreBatteries
+  - m00nl1ght.MapPreview
+  - ratys.madskills
+  - greysuki.RF.fertilefields
+  - thereallemon.factioncontrol
+  - EdB.PrepareCarefully
+  - Dubwise.DubsSkylights
+  - Mlie.DrugsAreNotFood
+  - brrainz.achtung
+  - Mehni.PickUpAndHaul
+  - RMK.translation
+  - DesTiNy.RKTM.Mod
+  - Taranchuk.PerformanceOptimizer
+  - Krkr.RocketMan
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+Scatterer RimWorld.GenStep_ScatterShrines could not find cell to generate at. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+bodysizes genes are active
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 4707 unused Assets to reduce memory usage. Loaded Objects now: 34982.
+Total: 812.451800 ms (FindLiveObjects: 2.257100 ms CreateObjectMapping: 3.264100 ms MarkObjects: 774.374900 ms  DeleteObjects: 32.555500 ms)
+
+Cannot draw radius ring of radius 107.9: not enough squares in the precalculated list. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Root level exception in Update(): System.OutOfMemoryException: Out of memory
+[Ref B8DCD49C]
+ at (wrapper managed-to-native) System.Object.__icall_wrapper_mono_array_new_2(intptr,intptr,intptr)
+ at Verse.GlowGrid.RegisterGlower (Verse.CompGlower newGlow) [0x0007e] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.GlowGrid.GlowGridUpdate_First () [0x000d2] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Map.MapUpdate () [0x00031] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Game.UpdatePlay () [0x00066] in <1d3901981bf845c4a969d40122c14f9e>:0 
+     - POSTFIX Krkr.RocketMan: Void RocketMan.Patches.Game_UpdatePlay_Patch:Postfix()
+     - POSTFIX net.pardeike.rimworld.mods.achtung: Void AchtungMod.Game_UpdatePlay_Patch:Postfix()
+ at Verse.Root_Play.Update () [0x00032] in <1d3901981bf845c4a969d40122c14f9e>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Root level exception in Update(): System.OutOfMemoryException: Out of memory
+[Ref B8DCD49C] Duplicate stacktrace, see ref for original 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+System.OutOfMemoryException: Out of memory
+[Ref 439682A4]
+ at (wrapper managed-to-native) System.Object.__icall_wrapper_mono_array_new_2(intptr,intptr,intptr)
+ at Verse.GlowGrid.RegisterGlower (Verse.CompGlower newGlow) [0x0007e] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.CompGlower.UpdateLit (Verse.Map map) [0x0006d] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.CompGlower.ReceiveCompSignal (System.String signal) [0x000ae] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.ThingWithComps.BroadcastCompSignal (System.String signal) [0x0002b] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at RimWorld.CompPowerTrader.set_PowerOn (System.Boolean value) [0x0007f] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at RimWorld.PowerNet.PowerNetTick () [0x00164] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at RimWorld.PowerNetManager.PowerNetsTick () [0x00010] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Map.MapPostTick () [0x00034] in <1d3901981bf845c4a969d40122c14f9e>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+System.OutOfMemoryException: Out of memory
+[Ref C4C30EA]
+ at (wrapper managed-to-native) System.Object.__icall_wrapper_mono_array_new_2(intptr,intptr,intptr)
+ at Verse.GlowGrid.RegisterGlower (Verse.CompGlower newGlow) [0x0007e] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.CompGlower.SetGlowColorInternal (System.Nullable`1[T] color) [0x00044] in <1d3901981bf845c4a969d40122c14f9e>:0 
+     - PREFIX PerformanceOptimizer.Main: Void PerformanceOptimizer.Optimization_FasterGetCompReplacement:SetGlowColorInternalPrefix(CompGlower __instance)
+ at Verse.CompGlower.set_GlowColor (Verse.ColorInt value) [0x00007] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.CompGlower+<>c__DisplayClass31_2.<CompGetGizmosExtra>b__3 () [0x00043] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Command_Action.ProcessInput (UnityEngine.Event ev) [0x00007] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.GizmoGridDrawer.DrawGizmoGrid (System.Collections.Generic.IEnumerable`1[T] gizmos, System.Single startX, Verse.Gizmo& mouseoverGizmo, System.Func`2[T,TResult] customActivatorFunc, System.Func`2[T,TResult] highlightFunc, System.Func`2[T,TResult] lowlightFunc, System.Boolean multipleSelected) [0x007a8] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor (System.Collections.Generic.IEnumerable`1[T] selectedObjects, Verse.Gizmo& mouseoverGizmo) [0x0022e] in <1d3901981bf845c4a969d40122c14f9e>:0 
+     - TRANSPILER PerformanceOptimizer.Main: IEnumerable`1 PerformanceOptimizer.Optimization_InspectGizmoGrid_DrawInspectGizmoGridFor:InspectGizmoGrid_DrawInspectGizmoGridForTranspiler(IEnumerable`1 instructions)
+     - TRANSPILER fluffy.blueprints: IEnumerable`1 Blueprints.Patch_InspectGizmoGrid_DrawInspectGizmoGridFor:Transpiler(IEnumerable`1 _instructions)
+     - TRANSPILER fluffy.blueprints: IEnumerable`1 Blueprints.Patch_InspectGizmoGrid_DrawInspectGizmoGridFor:Transpiler(IEnumerable`1 _instructions)
+     - TRANSPILER fluffy.blueprints: IEnumerable`1 Blueprints.Patch_InspectGizmoGrid_DrawInspectGizmoGridFor:Transpiler(IEnumerable`1 _instructions)
+     - TRANSPILER fluffy.blueprints: IEnumerable`1 Blueprints.Patch_InspectGizmoGrid_DrawInspectGizmoGridFor:Transpiler(IEnumerable`1 _instructions) currentSelectable: null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Root level exception in Update(): System.OutOfMemoryException: Out of memory
+[Ref 140A51E5]
+ at (wrapper managed-to-native) System.Object.__icall_wrapper_ves_icall_array_new_specific(intptr,int)
+ at Unity.Collections.NativeArray`1[T].ToArray () [0x00007] in <c58bc064d0ed420cb832da9d6d1cf9b6>:0 
+ at Verse.DynamicDrawManager.PreDrawVisibleThings (Unity.Collections.NativeArray`1[T] details) [0x00011] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.DynamicDrawManager.DrawDynamicThings () [0x00093] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Map.MapUpdate () [0x000c6] in <1d3901981bf845c4a969d40122c14f9e>:0 
+ at Verse.Game.UpdatePlay () [0x00066] in <1d3901981bf845c4a969d40122c14f9e>:0 
+     - POSTFIX Krkr.RocketMan: Void RocketMan.Patches.Game_UpdatePlay_Patch:Postfix()
+     - POSTFIX net.pardeike.rimworld.mods.achtung: Void AchtungMod.Game_UpdatePlay_Patch:Postfix()
+ at Verse.Root_Play.Update () [0x00032] in <1d3901981bf845c4a969d40122c14f9e>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Games\RimWorld;C:\Games\RimWorld;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'mi'
+OS-Version: 10.0.0
+C:\Games\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF74BA30000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFF43220000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFF421B0000), size: 819200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFF40A40000), size: 3874816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Games\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FFE89130000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFF42EA0000), size: 1867776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFF406B0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2605
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFF431B0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2033
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFF40910000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFF406E0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFF40F30000), size: 1355776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFF42530000), size: 1675264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\System32\combase.dll:combase.dll (00007FFF418D0000), size: 3661824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFF38730000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFF42410000), size: 1138688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFF42D40000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.26100.1882
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFF43070000), size: 380928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFF42750000), size: 4743168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFF41CE0000), size: 737280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2033
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFF417A0000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFF41080000), size: 7344128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFF430D0000), size: 876544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFF42280000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFF386F0000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFF17D30000), size: 1097728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFF40790000), size: 1531904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFF426D0000), size: 475136 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFF3BAE0000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFF3EB80000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFF3FE10000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFF21B90000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FFF3DB00000), size: 290816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFF3F430000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1591
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFF40E90000), size: 626688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2033
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFF3D8C0000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFF41DA0000), size: 892928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFF3E340000), size: 8589312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFF40500000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Games\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFF0C1C0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFF41790000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFF3EE70000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFF42BE0000), size: 1425408 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFF3BC10000), size: 2478080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFF3DB70000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FFF3DAA0000), size: 376832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FFF40140000), size: 389120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\aticfx64.dll:aticfx64.dll (00007FFF38740000), size: 1814528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\Windows\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atiuxp64.dll:atiuxp64.dll (00007FFF386B0000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\Windows\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atidxx64.dll:atidxx64.dll (00007FFF36730000), size: 32972800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FFF3D080000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\amdihk64.dll:amdihk64.dll (00007FFF366F0000), size: 217088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.0.0.1788
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFF42DF0000), size: 688128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFF2FBD0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1000
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFF2FA10000), size: 499712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFF396D0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1000
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFF2B8D0000), size: 983040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FFF38E30000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFF3F9D0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25020.1009-0\MpOav.dll:MpOav.dll (00007FFF2A770000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.25020.1009
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FFF34B50000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFF401B0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFF25190000), size: 1798144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFF3E040000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FFF40480000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFF403B0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1301
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FFF3C4B0000), size: 2240512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2605
+C:\Windows\SYSTEM32\Microsoft.Internal.WarpPal.dll:Microsoft.Internal.WarpPal.dll (00007FFF3CE60000), size: 102400 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFF3DCC0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFF351C0000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\system32\Oleacc.dll:Oleacc.dll (00007FFF28E30000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.2.26100.2454
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFF42190000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFF3CDA0000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFF3ABE0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\system32\mswsock.dll:mswsock.dll (00007FFF3F930000), size: 425984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFF3EF60000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFF3A970000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFF356A0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1150
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFF3FBE0000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFF3F390000), size: 229376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFF3FBD0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFF3FC40000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\gpapi.dll:gpapi.dll (00007FFF3F9A0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\SYSTEM32\TextShaping.dll:TextShaping.dll (00007FFF2F550000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Games\RimWorld\RimWorldWin64_Data\Plugins\x86_64\lib_burst_generated.dll:lib_burst_generated.dll (00007FFF35810000), size: 24576 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFF3CB30000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.1882
+C:\Windows\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFF38EE0000), size: 3026944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFF38CC0000), size: 1474560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2894
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF39DB0000), size: 2363392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2033
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFF3F6D0000), size: 294912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.26100.2454
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFE896C313F (UnityPlayer) UnityMain
+0x00007FFE896C2CC9 (UnityPlayer) UnityMain
+0x00007FFE896C090A (UnityPlayer) UnityMain
+0x00007FFE896BD01C (UnityPlayer) UnityMain
+0x00007FFE896BF59F (UnityPlayer) UnityMain
+0x00007FFE896C01F7 (UnityPlayer) UnityMain
+0x00007FFE8994A4B5 (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE892A2FC8)
+0x00007FFE892A2FC8 (UnityPlayer) (function-name not available)
+0x00007FFE89D42DEC (UnityPlayer) UnityMain
+0x00007FFE89D4C320 (UnityPlayer) UnityMain
+0x00007FFE89D4CACF (UnityPlayer) UnityMain
+0x00007FFE89D42FFE (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8941DE65)
+0x00007FFE8941DE65 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8941B39D)
+0x00007FFE8941B39D (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8941AE3D)
+0x00007FFE8941AE3D (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE894E582F)
+0x00007FFE894E582F (UnityPlayer) (function-name not available)
+0x00000221718D5E28 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.GUIStyle:Internal_Draw_Injected (UnityEngine.GUIStyle,UnityEngine.Rect&,UnityEngine.GUIContent,bool,bool,bool,bool)
+0x00000221718D5D33 (Mono JIT Code) UnityEngine.GUIStyle:Internal_Draw (UnityEngine.Rect,UnityEngine.GUIContent,bool,bool,bool,bool)
+0x00000221718D5C13 (Mono JIT Code) UnityEngine.GUIStyle:Draw (UnityEngine.Rect,UnityEngine.GUIContent,int,bool,bool,bool,bool)
+0x00000221718D5B3B (Mono JIT Code) UnityEngine.GUIStyle:Draw (UnityEngine.Rect,UnityEngine.GUIContent,bool,bool,bool,bool)
+0x000002216EECDF9B (Mono JIT Code) UnityEngine.GUI:DoLabel (UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)
+0x000002216EECDE2B (Mono JIT Code) UnityEngine.GUI:Label (UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)
+0x000002216EECDCC3 (Mono JIT Code) UnityEngine.GUI:Label (UnityEngine.Rect,string,UnityEngine.GUIStyle)
+0x0000022219BF546B (Mono JIT Code) LudeonTK.DevGUI:Label (UnityEngine.Rect,string)
+0x00000221780BB1E3 (Mono JIT Code) (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:LudeonTK.EditWindow_Log.DoMessagesListing_Patch1 (LudeonTK.EditWindow_Log,UnityEngine.Rect)
+0x0000022219BF46B3 (Mono JIT Code) LudeonTK.EditWindow_Log:DoWindowContents (UnityEngine.Rect)
+0x0000022219BF0BFF (Mono JIT Code) Verse.Window:InnerWindowOnGUI (int)
+0x0000022219ABE98D (Mono JIT Code) UnityEngine.GUI:CallWindowDelegate (UnityEngine.GUI/WindowFunction,int,int,UnityEngine.GUISkin,int,single,single,UnityEngine.GUIStyle)
+0x0000022219ABEAF3 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_int_int_object_int_single_single_object (object,intptr,intptr,intptr)
+0x00007FFF0C2EE270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FFF0C272AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FFF0C27BB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FFE89A0606D (UnityPlayer) UnityMain
+0x00007FFE89A03443 (UnityPlayer) UnityMain
+0x00007FFE89A00695 (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE891BC2D8)
+0x00007FFE891BC2D8 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE89416F78)
+0x00007FFE89416F78 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE89415F21)
+0x00007FFE89415F21 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8941A7E2)
+0x00007FFE8941A7E2 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8941C976)
+0x00007FFE8941C976 (UnityPlayer) (function-name not available)
+0x00007FFE898D57D7 (UnityPlayer) UnityMain
+0x00007FFE898D4DA1 (UnityPlayer) UnityMain
+0x00007FFE898C63C7 (UnityPlayer) UnityMain
+0x00007FFE898C6463 (UnityPlayer) UnityMain
+0x00007FFE898C88BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8967751E)
+0x00007FFE8967751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8967627A)
+0x00007FFE8967627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FFE8967A32C)
+0x00007FFE8967A32C (UnityPlayer) (function-name not available)
+0x00007FFE8967DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: '잘못된 주소를 액세스하려고 했습니다.' (Address: 00007FF74BA311F2)
+0x00007FF74BA311F2 (RimWorldWin64) (function-name not available)
+0x00007FFF421DE8D7 (KERNEL32) BaseThreadInitThunk
+0x00007FFF432FFBCC (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/mi621/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes

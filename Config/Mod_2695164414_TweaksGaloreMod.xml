@@ -392,6 +392,13 @@
 				<li>Tweak_PowerAdj_RockMill</li>
 				<li>Tweak_PowerAdj_CompostBarrel</li>
 				<li>Tweak_PowerAdj_RFF_ScrapGenerator</li>
+				<li>Tweak_PowerAdj_PulsefireTurretGun</li>
+				<li>Tweak_PowerAdj_PulsefireTwinCannon</li>
+				<li>Tweak_PowerAdj_RimFridge_SingleRefrigerator</li>
+				<li>Tweak_PowerAdj_RimFridge_Refrigerator</li>
+				<li>Tweak_PowerAdj_RimFridge_QuadRefrigerator</li>
+				<li>Tweak_PowerAdj_RimFridge_SingleWallRefrigerator</li>
+				<li>Tweak_PowerAdj_RimFridge_WallRefrigerator</li>
 			</keys>
 			<values>
 				<li>6</li>
@@ -521,6 +528,13 @@
 				<li>350</li>
 				<li>50</li>
 				<li>-10000</li>
+				<li>400</li>
+				<li>400</li>
+				<li>70</li>
+				<li>100</li>
+				<li>140</li>
+				<li>70</li>
+				<li>100</li>
 			</values>
 		</intSetting>
 		<intRangeSetting>
@@ -768,6 +782,8 @@
 				<li>LowtierBattery</li>
 				<li>RFF_Farming</li>
 				<li>RFF_Terraforming</li>
+				<li>PulsefireTech</li>
+				<li>RimFridge_PowerFactorSetting</li>
 			</keys>
 			<values>
 				<li>
@@ -1906,6 +1922,19 @@
 					<techprintMarketValue>1000</techprintMarketValue>
 					<techprintTags IsNull="True" />
 				</li>
+				<li>
+					<baseCost>1500</baseCost>
+					<techLevel>Industrial</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
+				<li>
+					<techLevel>Neolithic</techLevel>
+					<techprintCommonality>1</techprintCommonality>
+					<techprintMarketValue>1000</techprintMarketValue>
+					<techprintTags IsNull="True" />
+				</li>
 			</values>
 		</tweak_researchProjectSettings>
 		<tweak_pennedAnimalDict>
@@ -2863,6 +2892,10 @@
 				<li>AddictionImmune_Psychite</li>
 				<li>AddictionImmune_Smokeleaf</li>
 				<li>AddictionImmune_WakeUp</li>
+				<li>AptitudeTerrible_Toughness</li>
+				<li>AptitudePoor_Toughness</li>
+				<li>AptitudeStrong_Toughness</li>
+				<li>AptitudeRemarkable_Toughness</li>
 			</keys>
 			<values>
 				<li>False</li>
@@ -3045,6 +3078,10 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

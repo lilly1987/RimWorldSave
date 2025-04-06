@@ -3213,4 +3213,13 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>TweaksGalore_PlayerPackedDirt</DefName>
+    <Color>
+      <r>0.41568628</r>
+      <g>0.345098048</g>
+      <b>0.282352954</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

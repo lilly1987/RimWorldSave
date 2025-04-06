@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="PerformanceOptimizer.PerformanceOptimizerSettings">
+		<overviewLetterSent>True</overviewLetterSent>
 		<optimizations>
 			<li Class="PerformanceOptimizer.Watcher" />
 			<li Class="PerformanceOptimizer.Optimization_Designator_CreateReverseDesignationGizmo" />

@@ -169,7 +169,7 @@ Gagarin:[NOTANERROR] patching XmlInheritance:Void Resolve() finished!
 
 GAGARIN:[DUPLICATE]: Started!
 
-GAGARIN:[DUPLICATE] Creating duplication reports took 391 MS
+GAGARIN:[DUPLICATE] Creating duplication reports took 438 MS
 
 GAGARIN:[DUPLICATE] Finished creating reports at <color=red>C:\Users\mi621\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Reports</color>
 
@@ -649,7 +649,7 @@ ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
 
-[0.001952 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.001667 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Grizzly
 ROCKETRULES: IgnoreMe add def by name: Corpse_Bear_Polar
 ROCKETRULES: IgnoreMe add def by name: Corpse_Ostrich
@@ -834,3 +834,29 @@ ROCKETMAN:[NOTANERROR] patching Pawn_HealthTracker:Void Notify_UsedVerb(Verse.Ve
 ROCKETMAN:[NOTANERROR] patching HediffSet:Void DirtyCache() finished!
 
 GAGARIN: Lock removed!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
+SOYUZ: Preset loaded!
+
+Created ticker bucket: BaseInterval=250 BucketInterval=125
+
+Bucket[0].Count = 1
+
+Bucket[1].Count = 1
+
+Created ticker bucket: BaseInterval=8000 BucketInterval=8000
+
+Bucket[0].Count = 1
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+
+ROCKETMAN: Position verfication started!
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+
+SOYUZ: Preset loaded!
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+
+ROCKETMAN: Position verfication started!

@@ -5,9 +5,9 @@
   <volumeMusic>0.4</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <volumeUI>1</volumeUI>
-  <screenWidth>0</screenWidth>
-  <screenHeight>0</screenHeight>
-  <fullscreen>False</fullscreen>
+  <screenWidth>1920</screenWidth>
+  <screenHeight>1080</screenHeight>
+  <fullscreen>True</fullscreen>
   <uiScale>1</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>

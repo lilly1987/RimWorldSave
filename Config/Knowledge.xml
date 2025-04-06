@@ -3,7 +3,7 @@
   <knowledge>
     <li>
       <key>WorldCameraMovement</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ReformCaravan</key>
@@ -43,7 +43,7 @@
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -91,15 +91,15 @@
     </li>
     <li>
       <key>CameraDolly</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraZoom</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeControls</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Pause</key>
@@ -107,7 +107,7 @@
     </li>
     <li>
       <key>Stockpiles</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Forbidding</key>
@@ -123,7 +123,7 @@
     </li>
     <li>
       <key>Alerts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
@@ -155,7 +155,7 @@
     </li>
     <li>
       <key>InfoCard</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>StorageTab</key>
@@ -163,7 +163,7 @@
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -199,7 +199,7 @@
     </li>
     <li>
       <key>TileInspector</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Outfits</key>
