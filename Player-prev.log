@@ -1,0 +1,239 @@
+Mono path[0] = 'C:/Games/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Games/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Games/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   
+    VRAM:     7576 MB
+    Driver:   31.0.21921.1000
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.079 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.768100 ms
+RimWorld 1.5.4409 rev1068
+Mod Stackable Chunks [1.4+] <packageId> (zhrocks11.stackablechunks_copy) is not in valid format. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000268756804A0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000002687561E190.dll
+[HugsLib] version 11.0.5
+Initialized OmniCoreDrill patches
+3.0.9196 ::
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000268776B6020.dll
+Dubs Skylight 1.5.2639
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000026877C6BCA0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000026877C846E0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000026877C8F6F0.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-000002686F14D210.dll
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-0000026877C9C700.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.StartupHelper:StartUpStarted():0
+System.Reflection.MonoMethod:InternalInvoke():0
+System.Reflection.MonoMethod:Invoke():0
+System.Reflection.MethodBase:Invoke():0
+RocketMan.FunctionsUtility+<>c__DisplayClass1_0`1[[RocketMan.Main+OnInitialization, Cosmodrome, Version=0.6.3.2421, Culture=neutral, PublicKeyToken=null]]:<GetActions>b__3():0
+RocketMan.RocketMod:.ctor():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:DoInvoke():0
+System.Reflection.MonoCMethod:Invoke():0
+System.RuntimeType:CreateInstanceImpl():0
+System.Activator:CreateInstance():0
+System.Activator:CreateInstance():0
+Verse.LoadedModManager:CreateModClasses():0
+Verse.LoadedModManager:LoadAllActiveMods():0
+Verse.PlayDataLoader:DoPlayLoad():0
+Verse.PlayDataLoader:LoadAllPlayData():0
+Verse.Root+<>c:<Start>b__6_1():0
+Verse.LongEventHandler:RunEventFromAnotherThread():0
+Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
+System.Threading.ThreadHelper:ThreadStart_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ThreadHelper:ThreadStart():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Mod list changed! Deleting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache not found or got purged!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
+b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
+b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
+b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
+ROCKETMAN:No more RocketMan <color=gray>"Log spam"</color>...
+I hope you're fucking satisfied.
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>0.858</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>0.606</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.001</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>0.755</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.153</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4409:3/24/2025 12:00:00 AM:1.5.4409 rev1068
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>0 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>9.768</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedSandstone is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedGranite is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedLimestone is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedSlate is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Minable thing of SmoothedMarble is already calculated, skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Power Tweaks Skipped Defs:
+전선 (PowerConduit) due to zero power setting.
+매립 전선 (HiddenConduit) due to zero power setting.
+방수 전선 (WaterproofConduit) due to zero power setting.
+전원 스위치 (PowerSwitch) due to zero power setting.
+축전지 (Battery) due to zero power setting.
+우주선 골조 (Ship_Beam) due to zero power setting.
+우주선 동면장치 (Ship_CryptosleepCasket) due to zero power setting.
+연산 코어 (Ship_ComputerCore) due to zero power setting.
+추진기 (Ship_Engine) due to zero power setting.
+탐지기 모듈 (Ship_SensorCluster) due to zero power setting.
+번화계 축전지 (AdvancedBattery) due to zero power setting.
+향상된 축전지 (LowTierBattery) due to zero power setting.
+고급 축전지 (MidTierBattery) due to zero power setting.
+초월공학 축전지 (VeryAdvancedBattery) due to zero power setting.
+
+Could not resolve cross-reference: No Verse.RecipeDef named RemoveMoodNullifier found to give to Verse.DefHyperlink Verse.DefHyperlink 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.RecipeDef named RemoveMoodNullifier found to give to Verse.DefHyperlink Verse.DefHyperlink 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.RecipeDef named RemoveMoodNullifier found to give to Verse.DefHyperlink Verse.DefHyperlink 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MadSkills]: changed behavior of Great Memory trait.
+Some descriptionHyperlinks in InstallMoodNullifier had null def. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Remove
+	
+	
+	
+	
+	
+	Nullifier: defName Remove
+	
+	
+	
+	
+	
+	Nullifier should only contain letters, numbers, underscores, or dashes. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some descriptionHyperlinks in HediffMoodNullifier had null def. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some descriptionHyperlinks in MoodNullifierImplant had null def. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.153</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Quarry:: Total 5 quarryable terrain found, processed: 사암, 화강암, 석회암, 점판암, 대리석
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.153</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language Korean has 45108 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+(Better Pyromania) Rec room score calculation transpiler injected.
+Wall Light: v1.5.8874.26767
+Table Diner did not find Common Sense.
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 357 terrain defs from file.
+Fallback handler could not load library C:/Games/RimWorld/RimWorldWin64_Data/Mono/data-00000268BD493020.dll
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+GAGARIN: <color=green>StartUpFinished called!</color>
+Type InvisibleWorldObject probably needs a StaticConstructorOnStartup attribute, because it has a field invMat of type Material. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type FactionDialogFor probably needs a StaticConstructorOnStartup attribute, because it has a field insultTex of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.5.10 initializing...
+updating labels for korean...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.5.10 ...done
+[RMK.NamesInYourLanguage] 번역된 이름: 21733 | 번역되지 않은 이름: 0 | 소요 시간: 301ms
+[HugsLib] initializing StackableChunks, StackXXL
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[StackXXL] Loaded
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+243 default entities for genes created
+creating default parameter list for objects...
+1380 default entities for objects created
+creating default parameter list for turrets...
+13 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+no modifications for objects
+no modifications for lifestages
+...done
+Starting patches: 1398 - 4/6/2025 8:17:47 PM
+Finished transpiling 1398 methods - 4/6/2025 8:18:12 PM
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 396c -> priority: 1 
+  Thread -> id: 4be4 -> priority: 1 
+  Thread -> id: 4920 -> priority: 1 
+  Thread -> id: 27a8 -> priority: 1 
+  Thread -> id: 3aa4 -> priority: 1 
+  Thread -> id: 39d4 -> priority: 1 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+Unloading 140 unused Assets to reduce memory usage. Loaded Objects now: 23500.
+Total: 360.042300 ms (FindLiveObjects: 1.869400 ms CreateObjectMapping: 1.394600 ms MarkObjects: 356.499700 ms  DeleteObjects: 0.278200 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3544 -> priority: 1 
+  Thread -> id: 1924 -> priority: 1 
+  Thread -> id: 2ecc -> priority: 1 
+  Thread -> id: 2298 -> priority: 1 
+  Thread -> id: 6c4 -> priority: 1 
+  Thread -> id: 2e90 -> priority: 1 

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DoctorVanGogh.OmniCoreDrill.Settings">
+		<props>
+			<drillWork>
+				<value>0.25</value>
+			</drillWork>
+			<density>
+				<value>3.921562</value>
+			</density>
+			<commonality>
+				<value>4</value>
+			</commonality>
+		</props>
+	</ModSettings>
+</SettingsBlock>

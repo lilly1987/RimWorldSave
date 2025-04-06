@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MURWallLight.WallLightSettings">
+		<MURWallLight_lampGlowRad>110</MURWallLight_lampGlowRad>
+		<MURWallLight_lampPowerCost>300</MURWallLight_lampPowerCost>
+		<MURWallLight_lampSteelCost>150</MURWallLight_lampSteelCost>
+		<MURWallLight_disableTarget>False</MURWallLight_disableTarget>
+		<MURWallLight_enableSunLamp>True</MURWallLight_enableSunLamp>
+		<MURWallLight_sunLampGlowRad>70</MURWallLight_sunLampGlowRad>
+		<MURWallLight_sunLampPowerCost>9999</MURWallLight_sunLampPowerCost>
+		<MURWallLight_sunLampSteelCost>300</MURWallLight_sunLampSteelCost>
+	</ModSettings>
+</SettingsBlock>

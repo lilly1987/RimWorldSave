@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Blueprints.Settings">
+		<copyKey>
+			<label>단축키 복사</label>
+			<modifiers>Control</modifiers>
+			<key>C</key>
+		</copyKey>
+	</ModSettings>
+</SettingsBlock>
